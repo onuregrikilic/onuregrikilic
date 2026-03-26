@@ -30,7 +30,7 @@ I am a final-year Computer Engineering student passionate about building efficie
 
 ### 📫 Connect with Me
 <p>
-  <a href=www.linkedin.com/in/onur-eğrikılıç-19b860314 target="_blank">
+  <a href="www.linkedin.com/in/onur-eğrikılıç-19b860314" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
